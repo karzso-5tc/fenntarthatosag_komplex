@@ -1,0 +1,45 @@
+.btn-margin {
+    margin-top: 0px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.head {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+p {
+  line-height: 1.7;
+  font-size: large;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+img {
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+img:hover {
+  transform: scale(1.03);
+}
+
+.card-sajat {
+  background-color: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08)
+}
+
+.img-fluid {
+    object-fit: cover;
+    max-height: 300px;
+}
