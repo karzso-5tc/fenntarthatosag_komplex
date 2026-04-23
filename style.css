@@ -41,5 +41,15 @@ img:hover {
 
 .img-fluid {
     object-fit: cover;
-    max-height: 300px;
+}
+
+
+#elony {
+  color: #c1e1c1;
+  text-decoration: underline;
+}
+
+#hatrany {
+  color: #ea3c53;
+  text-decoration: underline;
 }
