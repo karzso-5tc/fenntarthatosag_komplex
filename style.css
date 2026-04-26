@@ -43,6 +43,10 @@ img:hover {
     object-fit: cover;
 }
 
+.img-sajat {
+  min-height: 600px;
+}
+
 
 #elony {
   color: #c1e1c1;
